@@ -1,6 +1,6 @@
 # pruebas-frontend
 
-> A Vue.js project
+> Proyecto para pruebas
 
 ## Build Setup
 
